@@ -39,7 +39,197 @@
                 <div class="section-full-flex">
                     <h3 class="roboto-bold section-full-title_secondary">HOT DEALS THIS WEEK</h3>
                     <h1 class="roboto-bold section-full-title">SALE UP 50% MODERN FURNITURE</h1>
-                    <button class="btn btn-secondary">VIEW NOW</button>
+                    <button class="btn btn-secondary roboto-bold">VIEW NOW</button>
+                </div>
+            </div>
+        </section>
+        <section class="section">
+            <div class="grid-container">
+                <div class="grid-item1">
+                    <div class="card-large">
+                        <img  src="./img/products/large-card-product.png" alt="">
+                        <div class="card-large-elements">
+                            <h3 class="roboto-bold">INY VINTAGE CHAIR</h3>
+                            <button class="btn btn-secondary roboto-bold">VIEW DETAILS</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item2">
+                    <div class="card-large">
+                        <img   src="./img/products/large-card-product_2.png" alt="">
+                        <div class="card-large-elements">
+                            <h3 class="roboto-bold">LARGE TERRACOTA VASE</h3>
+                            <button class="btn btn-secondary roboto-bold">VIEW DETAILS</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item3">
+                    <div class="card">
+                        <div class="card-actions">
+                            <img src="./img/icons/cart.svg" alt="add-cart">
+                            <img src="./img/icons/favorite_resize.svg" alt="add-favorite">
+                            <img src="./img/icons/view.svg" alt="view-details">
+                        </div>
+                        <img class="card-image" src="./img/products/LINEN BEACH TOWEL.png" alt="">
+                        <div class="card-elements">
+                            <h5 class="roboto-bold">Linen Beach Towel</h5>
+                            <div class="product-calification">
+                                <img class="product-calification-colored" src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                            </div>
+                            <p class="roboto-bold">$30</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item4">
+                    <div class="card">
+                        <div class="card-actions">
+                            <img src="./img/icons/cart.svg" alt="add-cart">
+                            <img src="./img/icons/favorite_resize.svg" alt="add-favorite">
+                            <img src="./img/icons/view.svg" alt="view-details">
+                        </div>
+                        <img class="card-image" src="./img/products/SQUARE CLEAR GLASS BOX.png" alt="">
+                        <div class="card-elements">
+                            <h5 class="roboto-bold">Square Clear Glass Box</h5>
+                            <div class="product-calification">
+                                <img class="product-calification-colored" src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                            </div>
+                            <p class="roboto-bold">$10</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item5">
+                    <div class="card">
+                        <div class="card-actions">
+                            <img src="./img/icons/cart.svg" alt="add-cart">
+                            <img src="./img/icons/favorite_resize.svg" alt="add-favorite">
+                            <img src="./img/icons/view.svg" alt="view-details">
+                        </div>
+                        <img class="card-image" src="./img/products/4-pack Small Ceramic Plates.png" alt="">
+                        <div  class="card-elements">
+                            <h5 class="roboto-bold">4-Pack Small Ceramic Plates</h5>
+                            <div class="product-calification">
+                                <img class="product-calification-colored" src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                            </div>
+                            <p class="roboto-bold">$30</p>
+                        </div>
+                    </div>                    
+                </div>
+                <div class="grid-item6">
+                    <div class="card">
+                        <div class="card-actions">
+                            <img src="./img/icons/cart.svg" alt="add-cart">
+                            <img src="./img/icons/favorite_resize.svg" alt="add-favorite">
+                            <img src="./img/icons/view.svg" alt="view-details">
+                        </div>
+                        <img class="card-image" src="./img/products/Large Clear Glass Box.png" alt="">
+                        <div class="card-elements">
+                            <h5 class="roboto-bold">Large Clear Glass Box</h5>
+                            <div class="product-calification">
+                                <img class="product-calification-colored" src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                            </div>
+                            <p class="roboto-bold">$35</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item7">
+                    <div class="card">
+                        <div class="card-actions">
+                            <img src="./img/icons/cart.svg" alt="add-cart">
+                            <img src="./img/icons/favorite_resize.svg" alt="add-favorite">
+                            <img src="./img/icons/view.svg" alt="view-details">
+                        </div>
+                        <img class="card-image" src="./img/products/Round Jute Placemat.png" alt="">
+                        <div class="card-elements">
+                            <h5 class="roboto-bold">Round Jute Placemat</h5>
+                            <div class="product-calification">
+                                <img class="product-calification-colored" src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                            </div>
+                            <p class="roboto-bold">$8</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item8">
+                    <div class="card">
+                        <div class="card-actions">
+                            <img src="./img/icons/cart.svg" alt="add-cart">
+                            <img src="./img/icons/favorite_resize.svg" alt="add-favorite">
+                            <img src="./img/icons/view.svg" alt="view-details">
+                        </div>
+                        <img class="card-image" src="./img/products/Metal Wire Basket.png" alt="">
+                        <div class="card-elements">
+                            <h5 class="roboto-bold">Metal Wire Basket</h5>
+                            <div class="product-calification">
+                                <img class="product-calification-colored" src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                            </div>
+                            <p class="roboto-bold">$30</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item9">
+                    <div class="card">
+                        <div class="card-actions">
+                            <img src="./img/icons/cart.svg" alt="add-cart">
+                            <img src="./img/icons/favorite_resize.svg" alt="add-favorite">
+                            <img src="./img/icons/view.svg" alt="view-details">
+                        </div>
+                        <img class="card-image" src="./img/products/Plastic Chair.jpg" alt="">
+                        <div class="card-elements">
+                            <h5 class="roboto-bold">Plastic Chair</h5>
+                            <div class="product-calification">
+                                <img class="product-calification-colored" src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                            </div>
+                            <p class="roboto-bold">$15</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-item10">
+                    <div class="card">
+                        <div class="card-actions">
+                            <img src="./img/icons/cart.svg" alt="add-cart">
+                            <img src="./img/icons/favorite_resize.svg" alt="add-favorite">
+                            <img src="./img/icons/view.svg" alt="view-details">
+                        </div>
+                        <img class="card-image" src="./img/products/Plant.jpg" alt="">
+                        <div class="card-elements">
+                            <h5 class="roboto-bold">Plant</h5>
+                            <div class="product-calification">
+                                <img class="product-calification-colored" src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                                <img src="./img/icons/star.svg" alt="star-icon">
+                            </div>
+                            <p class="roboto-bold">$12</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

@@ -243,7 +243,7 @@
                 <button class="btn btn-secondary roboto-bold">VIEW DETAILS</button>
             </div>
         </section>
-        <section class="section">
+        <section class="section flex-container-column">
             <div class="section-header">
                 <h2 class="roboto-bold">Top Rating</h2>
             </div>
@@ -438,17 +438,17 @@
                     </div>
                 </div>
             </div>
-            <div class="section-footer">
-                <button class="btn btn-primary roboto-bold">LOAD MORE PRODUCTS</button>
-                <div class="newsletter">
-                    <div class="newsletter-text">
-                        <h3 class="roboto-bold">SING UP FOR THE NEWSLETTER</h3>
-                        <p class="roboto-light">Subscribe for the latest stories and promotions</p>
-                    </div>
-                    <div class="newsletter-input">
-                        <input class="input" type="email" placeholder="Enter your e-mail address">
-                        <button class="btn btn-primary"><img src="./img/icons/mail.svg" alt="Mail Icon"></button>
-                    </div>
+            <button class="btn btn-primary roboto-bold btn-rating">LOAD MORE PRODUCTS</button>
+        </section>
+        <section class="section">
+            <div class="newsletter">
+                <div class="newsletter-text">
+                    <h3 class="roboto-bold">SING UP FOR THE NEWSLETTER</h3>
+                    <p class="roboto-light">Subscribe for the latest stories and promotions</p>
+                </div>
+                <div class="newsletter-input">
+                    <input class="input" type="email" placeholder="Enter your e-mail address">
+                    <button class="btn btn-primary"><img src="./img/icons/mail.svg" alt="Mail Icon"></button>
                 </div>
             </div>
         </section>
